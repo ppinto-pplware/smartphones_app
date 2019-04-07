@@ -1,5 +1,5 @@
 
-//Projeto Pplware - NodeJS - IPG
+//Projeto Pplware - NodeJS - 10:35
 
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -27,4 +27,5 @@ app.use('/smartphones', smartphones);
 let porto = 8000;
 app.listen(porto, () => {
     console.log('Servidor em execução no porto' + porto);
-});
+})
+;
