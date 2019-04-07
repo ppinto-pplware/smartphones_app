@@ -1,3 +1,6 @@
+
+//Projeto Pplware - NodeJS
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const smartphones = require('./routes/smartphones.route'); // Importa rota
