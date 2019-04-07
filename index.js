@@ -1,5 +1,7 @@
 
-//Projeto Pplware - NodeJS
+//Projeto IPG - NodeJS 
+//Criação funções CRUD + NodeJS + mongoDB 
+//
 
 const express = require('express');
 const bodyParser = require('body-parser');
