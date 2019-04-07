@@ -1,5 +1,5 @@
 
-//Projeto Pplware - NodeJS - 10:35
+//Projeto Pplware - NodeJS
 
 const express = require('express');
 const bodyParser = require('body-parser');
